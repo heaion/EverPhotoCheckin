@@ -4,6 +4,8 @@
 
 ![demo](imgs/checkin.png)
 
+  
+  iiii
 ## 食用指南
 
 **首先，Fork本项目到自己的仓库。**
